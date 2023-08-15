@@ -1,4 +1,4 @@
-# Projet d'interaction entre une base de données STRAPI et une application React/Vite avec également le concours de l'API Jotai.
+# Projet d'interaction entre une base de données STRAPI et une application React/Vite + Jotai.
 
 >npm i
 
